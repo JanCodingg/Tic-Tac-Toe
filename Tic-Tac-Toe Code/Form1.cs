@@ -99,9 +99,9 @@ namespace Tic_tac_to
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lbl_Spieler1.Text = "Spieler 1: " + s1;
-            lbl_spieler2.Text = "Spieler 2: " + s2;
-            lbl_Gleichstand.Text = "Unentschieden" + sd;
+            lbl_Spieler1.Text = "Player 1: " + s1;
+            lbl_spieler2.Text = "Player 2: " + s2;
+            lbl_Gleichstand.Text = "draw" + sd;
 
         }
         private void buttonClickt(object sender, EventArgs e)

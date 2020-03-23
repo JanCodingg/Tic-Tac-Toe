@@ -173,7 +173,6 @@
             this.lbl_Gleichstand.Name = "lbl_Gleichstand";
             this.lbl_Gleichstand.Size = new System.Drawing.Size(364, 25);
             this.lbl_Gleichstand.TabIndex = 19;
-            this.lbl_Gleichstand.Text = "Gleichstand";
             // 
             // neuesSpiel
             // 
@@ -182,7 +181,7 @@
             this.neuesSpiel.Name = "neuesSpiel";
             this.neuesSpiel.Size = new System.Drawing.Size(256, 87);
             this.neuesSpiel.TabIndex = 20;
-            this.neuesSpiel.Text = "Neues Spiel";
+            this.neuesSpiel.Text = "New Game";
             this.neuesSpiel.UseVisualStyleBackColor = true;
             this.neuesSpiel.Click += new System.EventHandler(this.neuesSpiel_Click);
             // 
@@ -204,7 +203,7 @@
             this.Beenden.Name = "Beenden";
             this.Beenden.Size = new System.Drawing.Size(256, 87);
             this.Beenden.TabIndex = 22;
-            this.Beenden.Text = "Beenden";
+            this.Beenden.Text = "Quit";
             this.Beenden.UseVisualStyleBackColor = true;
             this.Beenden.Click += new System.EventHandler(this.Beenden_Click);
             // 

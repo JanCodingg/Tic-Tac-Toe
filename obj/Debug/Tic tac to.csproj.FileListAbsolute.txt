@@ -1,9 +1,0 @@
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic_tac_to.Form1.resources
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic_tac_to.Properties.Resources.resources
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic tac to.csproj.GenerateResource.cache
-C:\Users\janhu\source\repos\Tic tac to\bin\Debug\Tic tac to.exe.config
-C:\Users\janhu\source\repos\Tic tac to\bin\Debug\Tic tac to.exe
-C:\Users\janhu\source\repos\Tic tac to\bin\Debug\Tic tac to.pdb
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic tac to.exe
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic tac to.pdb
-C:\Users\janhu\source\repos\Tic tac to\obj\Debug\Tic tac to.csprojAssemblyReference.cache
